@@ -190,4 +190,4 @@ katalog-produk/
 ---
 
 ## 👥 Tim Developer
-Ryan & Salfin — PT Indonesia Solusindo
+Alex Febri - SMK 11 Malang / XII RPL 2
